@@ -5,7 +5,7 @@ The React Bookshelf App is a simple web application that allows users to search 
 
 ## Live URL
 
-You can access the live application [here](https://your-live-app-url.com).
+You can access the live application [here](https://personal-bookshelf-fawn.vercel.app).
 
 ## Features
 
@@ -40,11 +40,10 @@ You can access the live application [here](https://your-live-app-url.com).
 ## Project Structure
 
 ```
-react-bookshelf-app/
-│
+Personal-Bookshelf/
+|
 ├── public/
-│   ├── index.html
-│   └── favicon.ico
+│   └── index.html
 ├── src/
 │   ├── components/
 │   │   ├── BookCard/
@@ -70,8 +69,7 @@ react-bookshelf-app/
 │   ├── App.css
 │   ├── index.js
 │   └── index.css
-├── package.json
-└── README.md
+└── package.json
 ```
 
 ## Components
